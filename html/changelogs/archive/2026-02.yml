@@ -214,3 +214,8 @@
   - bugfix: Bone related traits now properly exclude each other.
   Will:
   - bugfix: Catslug belly markings can be colored
+2026-02-23:
+  Sharkmare:
+  - bugfix: Made Bad shot and thick digits mutually exclusive
+  Will:
+  - code_imp: adds smes rcon name_tag unit test
